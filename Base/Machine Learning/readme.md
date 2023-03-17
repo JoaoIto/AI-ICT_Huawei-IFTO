@@ -1,9 +1,9 @@
-# Machine Learning métodos
+# Machine Learning methods
 
-- **Filtro:** A capacidadede usar um parâmetro estatístico, afim de criar um rack de feactures no modelo;
+- **Filter:** The ability to use a statistical parameter, in order to create a rack of features in the model;
 
-- **Wrapper:** Modelo de previsão para criar rack de um subconjunto de feactures;
+- **Wrapper:** Prediction template to rack a subset of features;
 
-- **Embedded:** É a técnica de seleção de feactures na parte inerente para construção de ***modelos***, muito conhecido pelo método de *Regularization*;
+- **Embedded:** It is the feature selection technique in the inherent part for building ***models***, well known by the *Regularization* method;
 
 ---

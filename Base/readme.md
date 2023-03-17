@@ -1,11 +1,10 @@
-# IA e suas subclasses:
+# Thw world of AI:
 
-**O mundo da intelgência artificial é muito grande, e assim é subdividido em suas subclasses, na qual as mais conhecidas por nós, como: Machine Learning, Deep Leaning, por exemplo.**
+**The world of artificial intelligence is very large, and thus it is subdivided into its subclasses, in which the best known to us, such as: Machine Learning, Deep Leaning, for example.**
+## Basic Concepts:
 
-## Conceitos:
+- **Machine Learning:** It is the ability of the computer or machine, as the name implies, to be able to learn and perform better and optimize the processor from a large amount of data. Its objectives are based on **optimizing these processes, in order to look for patterns, learn, study and evolve.**
 
-- **Machine Learning:** É a capacidade do computador o máquina, como o próprio nome diz, de conseguir aprender e desempenhar melhor e otimizar processor a partir de um grande quantidade de volume de dados. Seus objetivos são baseados em **otimizar esses processsos, afim de procurar padrões, aprender, estudar e evoluir.**
-
-- **Deep Learning:** Aqui, é um subcampo do Machine Learninge que se aplica o aprendizado de máquina de uma forma mais complexa. Seu objetivo parte de camadas de dados, na qual, **presta e tenta fazer previsões sobre dados e de forma escalável.**
+- **Deep Learning:** Here, it is a subfield of Machine Learning, and it applies machine learning in a more complex way. Its goal starts from data layers, in which it **provides and tries to make predictions about data and in a scalable way.**
 
 ---
